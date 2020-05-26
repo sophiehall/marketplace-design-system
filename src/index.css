@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Motivo Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: url("./components/assets/fonts/motivo-regular.woff") format('woff'),
+    url("./components/assets/fonts/motivo-regular.woff2") format('woff');
+}
